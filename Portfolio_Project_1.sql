@@ -154,6 +154,7 @@ Join PortfolioProject..CovidVaccinations vac
 	and dea.date = vac.date
 where dea.continent is not null 
 
+select * from PercentPopulationVaccinated
 
 
 
